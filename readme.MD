@@ -58,7 +58,7 @@ Os dados utilizados nos testes foram obtidos das seguintes fontes:
 ##### 
 
 ## 📖 Leitura do Artigo
-Leia o artigo completo disponível [aqui](./artigo/analise-comparativa-de-algoritmos.png).
+Leia o artigo completo disponível [aqui](https://github.com/MelissaOliveiraC/sudoku/blob/main/artigo/analise-comparativa-de-algoritmos-para-resolucao-de-sudoku-melissaoliveira.pdf).
 
 ___
 
